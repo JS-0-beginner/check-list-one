@@ -9,6 +9,7 @@ let names = ['abir', 'likhon', 'arko', 'pranto', 'shakil', 'sayad', 'arafat'];
 // var array = names.indexOf;
 // console.log(array);
 names[0]= 'abir helal';
+names[3]= 'pranto tiktok';
 names.push('anwar');
 names.push('zahid');
 names.pop();
